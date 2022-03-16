@@ -1,0 +1,2 @@
+# ecommerceBEL
+squarespace project
