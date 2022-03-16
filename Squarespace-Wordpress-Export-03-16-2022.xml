@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Bel Manufacturing</title>
+    <link>https://khaoula-t-bel.squarespace.com</link>
+    <pubDate>Wed, 23 Jan 2019 13:50:06 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>1073728980</wp:author_id>
+      <wp:author_login>khawla@starzelectronics.com</wp:author_login>
+      <wp:author_email>khawla@starzelectronics.com</wp:author_email>
+      <wp:author_display_name><![CDATA[khawla touati]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[khawla]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[touati]]></wp:author_last_name>
+    </wp:author>
+    <wp:author>
+      <wp:author_id>-257468334</wp:author_id>
+      <wp:author_login>GuestUser</wp:author_login>
+      <wp:author_email />
+      <wp:author_display_name><![CDATA[Guest User]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Guest]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[User]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/contact-us</link>
+      <title>Contact</title>
+      <pubDate>Tue, 12 Mar 2019 12:09:00 +0000</pubDate>
+      <content:encoded><![CDATA[<h2 style="text-align:center;white-space:pre-wrap;">Contact Us</h2>
+&nbsp;
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="5c52f94a7ba7fc4a4d01f8de"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://khaoula-t-bel.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '5c52f94a7ba7fc4a4d01f8de',
+      collectionId: '',
+      objectName: 'page-5c52f94a7ba7fc4a4d01f8dd'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1444673459394_68141" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1444673459394_68480" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1444673459394_68480-field">
+              Email Address
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1444673459394_68480-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1444673459394_68908" class="form-item field text required">
+                
+            <label class="title" for="text-yui_3_17_2_1_1444673459394_68908-field">
+              Subject
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-yui_3_17_2_1_1444673459394_68908-field"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1444673459394_69336" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1444673459394_69336-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1444673459394_69336-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-center
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Submit"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+&nbsp;<p style="text-align:center;white-space:pre-wrap;">Feel free to contact us with any questions or concerns you may have.&nbsp;  </p><p style="text-align:center;white-space:pre-wrap;"><strong>Main Manufacturing Site</strong></p><p style="text-align:center;white-space:pre-wrap;">3 Rue Hedi Chaker, 7000 Bizerte, Tunisia.</p>]]></content:encoded>
+      <wp:post_name>contact-us</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about-us</link>
+      <title>About</title>
+      <pubDate>Tue, 12 Nov 2019 09:45:38 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;<h2 style="white-space:pre-wrap;"><strong>Got an item in mind or an idea?</strong></h2><h2 style="text-align:right;margin-left:120px;white-space:pre-wrap;">Tell us, we’ll DO IT for you.</h2>
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-card
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              overflow: hidden;
+              
+            ">
+              <noscript><img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5c48710ef2e6b111617f5108/1553155070088-O64RZ2MW12CLKKZUS5F6/image-asset.jpeg" alt="WHO ARE WE? - BEL MANUFACTURING is an American supplier of a variety of handmade personalized products with a manufacturing site based in Tunisia." loading="lazy"/></noscript>
+              <img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5c48710ef2e6b111617f5108/1553155070088-O64RZ2MW12CLKKZUS5F6/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5c48710ef2e6b111617f5108/1553155070088-O64RZ2MW12CLKKZUS5F6/image-asset.jpeg" data-image-dimensions="2500x1406" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="overflow: hidden;"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="">WHO ARE WE?</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="">BEL MANUFACTURING is an American supplier of a variety of handmade personalized products with a manufacturing site based in Tunisia.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+<p class="" style="white-space:pre-wrap;">New technologies have eased traveling; still, not everyone is able to afford it.  Original souvenirs are in some way exclusive to travelers; but not anymore.</p><p class="" style="white-space:pre-wrap;">Welcome to BEL MANUFACTURING, an international online store catered for those of you who have no access to original souvenirs. Here, we gathered an array of products originated from different parts of the world.</p><p class="" style="white-space:pre-wrap;">Looking for souvenirs,  there is no need to worry about travelling fees; we handpicked hundreds of items ranging from handcrafted jewelry to eastern-themed home decoration.</p><h2 style="white-space:pre-wrap;"><strong>Design and manufacturing</strong></h2><p class="" style="white-space:pre-wrap;">BEL MANUFACTURING celebrates craftsmanship. It does so by partnering with skilled craftsmanship from all over the world. </p><h3 style="white-space:pre-wrap;">Design</h3><p class="" style="white-space:pre-wrap;">The people behind our products are proud of their designs as it’s part of their history. Preserving the authenticity is part of their duty as craftsmen. Modernizing the original designs is their way of keeping up with modern trends.</p><h3 style="white-space:pre-wrap;">Manufacturing</h3><p class="" style="white-space:pre-wrap;">Our partners meticulously craft their designs. They give a great deal of attention to details as it showcases the quality of their trademark. As for their crafting methods,  they use techniques,  passed down from generation to generation. They go to great lengths to sustain these traditions handed down to them as it embodies the true story behind their crafts. </p>]]></content:encoded>
+      <wp:post_name>about-us</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/terms-of-service</link>
+      <title>Terms of Service</title>
+      <pubDate>Tue, 03 Dec 2019 08:12:45 +0000</pubDate>
+      <content:encoded><![CDATA[<h2 style="text-align:center;white-space:pre-wrap;">Terms of Service</h2>
+&nbsp;<p class="" style="white-space:pre-wrap;">Last updated: 29-03-2019</p><p class="" style="white-space:pre-wrap;">Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the <a href="http://www.belmanufacturing.com">Bel Manufacturing website</a> (the "Service") operated by Our company.</p><p class="" style="white-space:pre-wrap;">Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.</p><p class="" style="white-space:pre-wrap;"><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.</strong></p><h3 style="white-space:pre-wrap;">Termination</h3><p class="" style="white-space:pre-wrap;">We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.</p><p class="" style="white-space:pre-wrap;">All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p><h3 style="white-space:pre-wrap;">Subscriptions</h3><p class="" style="white-space:pre-wrap;">Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring ...</p><h3 style="white-space:pre-wrap;">Content</h3><p class="" style="white-space:pre-wrap;">Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are responsible for the …</p><h3 style="white-space:pre-wrap;">Links To Other Web Sites</h3><p class="" style="white-space:pre-wrap;">Our Service may contain links to third-party web sites or services that are not owned or controlled by Our company.</p><p class="" style="white-space:pre-wrap;">Our company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Our company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p><h3 style="white-space:pre-wrap;">Changes</h3><p class="" style="white-space:pre-wrap;">We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p><h3 style="white-space:pre-wrap;">Contact Us</h3><p class="" style="white-space:pre-wrap;">If you have any questions about these Terms, please <a href="/contact-us">contact us</a>.</p>]]></content:encoded>
+      <wp:post_name>terms-of-service</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/shipping-returns</link>
+      <title>Shipping &amp; Returns</title>
+      <pubDate>Tue, 03 Dec 2019 08:39:31 +0000</pubDate>
+      <content:encoded><![CDATA[<h2 style="text-align:center;white-space:pre-wrap;">Exchange &amp; Returns Policy</h2>
+&nbsp;<p class="" style="white-space:pre-wrap;">Thanks for shopping at <a href="/home-1">BEL Manufacturing</a>.</p><p class="" style="white-space:pre-wrap;">If you are not entirely satisfied with your purchase, we're here to help.</p><h3 style="white-space:pre-wrap;">Returns</h3><p class="" style="white-space:pre-wrap;">You have <strong>2 weeks </strong>calendar days to return an item from the date you received it.</p><p class="" style="white-space:pre-wrap;">To be eligible for a return, your item must be unused and in the same condition that you received it.</p><p class="" style="white-space:pre-wrap;">Your item must be in the original packaging.</p><p class="" style="white-space:pre-wrap;">Your item needs to have the receipt or proof of purchase.</p><h3 style="white-space:pre-wrap;">Refunds</h3><p class="" style="white-space:pre-wrap;">Once we receive your item, we will inspect it and notify you that we have received your returned item. We will immediately notify you on the status of your refund after inspecting the item.</p><p class="" style="white-space:pre-wrap;">If your return is approved, we will initiate a refund to your credit card (or original method of payment).</p><p class="" style="white-space:pre-wrap;">You will receive the credit within a certain amount of days, depending on your card issuer's policies.</p><h3 style="white-space:pre-wrap;">Shipping </h3><p class="" style="white-space:pre-wrap;">You will be responsible for paying for your own shipping costs for returning your item. Shipping costs are nonrefundable.</p><p class="" style="white-space:pre-wrap;">If you receive a refund, the cost of return shipping will be deducted from your refund.</p><h3 style="white-space:pre-wrap;">Contact Us</h3><p class="" style="white-space:pre-wrap;">If you have any questions on how to return your item to us, <a href="/contact-us">contact us</a>.</p>]]></content:encoded>
+      <wp:post_name>shipping-returns</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/privacy-policy</link>
+      <title>Privacy Policy</title>
+      <pubDate>Sat, 30 Mar 2019 10:15:04 +0000</pubDate>
+      <content:encoded><![CDATA[<h2 style="text-align:center;white-space:pre-wrap;">Privacy Policy</h2>
+&nbsp;<p style="white-space:pre-wrap;">&nbsp;Last updated: 29-03-2019</p><p style="white-space:pre-wrap;">We operates <a href="http://www.belmanufacturing.com">http://www.belmanufacturing.com</a> .This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.</p><p style="white-space:pre-wrap;">We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.</p><h3 style="white-space:pre-wrap;">Information Collection And Use</h3><p style="white-space:pre-wrap;">While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information").</p><h3 style="white-space:pre-wrap;">Log Data</h3><p style="white-space:pre-wrap;">Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data").</p><p style="white-space:pre-wrap;">This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p><p style="white-space:pre-wrap;">In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this …</p><h3 style="white-space:pre-wrap;">Communications</h3><p style="white-space:pre-wrap;">We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information.</p><h3 style="white-space:pre-wrap;">Cookies</h3><p style="white-space:pre-wrap;">Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.</p><p style="white-space:pre-wrap;">Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.</p><h3 style="white-space:pre-wrap;">Security</h3><p style="white-space:pre-wrap;">The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p><h3 style="white-space:pre-wrap;">Changes To This Privacy Policy</h3><p style="white-space:pre-wrap;">This Privacy Policy is effective as of 29-03-2019 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p><p style="white-space:pre-wrap;">We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.</p><p style="white-space:pre-wrap;">If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.</p><h3 style="white-space:pre-wrap;">Contact Us</h3><p style="white-space:pre-wrap;">If you have any questions about this Privacy Policy, please <a href="/contact-us">contact us</a>.</p>]]></content:encoded>
+      <wp:post_name>privacy-policy</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/cookie</link>
+      <title>Cookie</title>
+      <pubDate>Sat, 30 Mar 2019 09:21:04 +0000</pubDate>
+      <content:encoded><![CDATA[<h2 style="text-align:center;white-space:pre-wrap;">Cookies Policy</h2>
+<p style="white-space:pre-wrap;">Last updated: 29-03-2019 </p><p style="white-space:pre-wrap;">We use cookies on our website (Bel Manufacturing) (the "Service"). By using the Service, you consent to the use of cookies.</p><p style="white-space:pre-wrap;">Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we may partner with may use cookies on the Service, your choices regarding cookies and further information about cookies.</p>
+<hr /><h3 style="white-space:pre-wrap;">What are cookies ?</h3>
+<p style="white-space:pre-wrap;">Cookies are small pieces of text sent by your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you.</p><p style="white-space:pre-wrap;">Cookies can be "persistent" or "session" cookies.</p>
+<hr /><h3 style="white-space:pre-wrap;">How Bel Manufacturing uses cookies ?</h3>
+<p style="white-space:pre-wrap;">When you use and access the Service, we may place a number of cookies files in your web browser.</p><p style="white-space:pre-wrap;">We use cookies for the following purposes: to enable certain functions of the Service, to provide analytics, to store your preferences, to enable advertisements delivery, including behavioral advertising.</p><p style="white-space:pre-wrap;">We use both session and persistent cookies on the Service and we use different types of cookies to run the Service:</p><p style="white-space:pre-wrap;">- Essential cookies. We may use essential cookies to authenticate users and prevent fraudulent use of user accounts.</p>
+<hr /><h3 style="white-space:pre-wrap;">Third-party cookies</h3>
+<p style="white-space:pre-wrap;">In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the Service, deliver advertisements on and through the Service, and so on.</p>
+<hr /><h3 style="white-space:pre-wrap;">What are your choices regarding cookies ?</h3>
+<p style="white-space:pre-wrap;">If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.</p><p style="white-space:pre-wrap;">Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.</p>
+<hr /><h3 style="white-space:pre-wrap;">Where can you find more information about cookies</h3>
+<p style="white-space:pre-wrap;">You can learn more about cookies and the following third-party websites:</p><p style="white-space:pre-wrap;">●&nbsp;&nbsp;&nbsp;&nbsp; All About Cookies: <a href="http://www.allaboutcookies.org/">http://www.allaboutcookies.org/</a></p><p style="white-space:pre-wrap;">●&nbsp;&nbsp;&nbsp;&nbsp; Network Advertising Initiative: <a href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a></p>]]></content:encoded>
+      <wp:post_name>cookie</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
